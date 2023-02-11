@@ -1,0 +1,37 @@
+#home{
+    text-align: center;
+    background-image: linear-gradient(to top, #0062ff 0%, #00ff08 100%);
+}
+#name{
+    font-family: 'Babylonica', cursive;
+    font-size:49px;
+    color:red;
+    font-weight: bold;
+}
+#bio{
+    text-align: center;
+}
+.line{
+    height:10px;
+    background-color: green;
+    width: 70px;
+    margin:8px auto
+}
+p{
+    max-width: 1000px;
+    margin:8px auto 
+}
+.menu{
+   list-style: none;
+   position: absolute; 
+   top: 10px;
+   left: 30px;
+   cursor: pointer;
+}
+.links{
+    float: left;
+    padding-left: 10px;
+    font-size: 28px;
+    color: #000000;
+    font-weight: 900;
+}
